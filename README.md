@@ -1,2 +1,3 @@
 # GAN_DL_CLASS_PROJECT
-Implemented and Trained a StyleGAN2 for Deep Learning Course at BITS PILANI
+Implemented and Trained a StyleGAN2 for Deep Learning Course at BITS PILANI.
+Please go through the report uploaded.
